@@ -27,7 +27,7 @@ Programming Languages:
 ## Databases:
 * MySQL
 * MongoDB
-##Tools & Platforms:
+## Tools & Platforms:
 * Docker
 * Jenkins
 * Visual Studio Code
