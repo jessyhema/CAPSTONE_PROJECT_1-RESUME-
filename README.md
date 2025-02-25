@@ -65,10 +65,10 @@ GitHub: github.com/jessyhema
 
 
 ## Explanation of the sections:
-Professional Summary: A brief overview of your career and what you're passionate about.
-Skills: List of key skills and technologies that you are proficient in.
-Experience: A detailed look at your work experience and your contributions at previous jobs.
-Education: Your academic background.
-Projects: This can be optional if you want to showcase any specific projects you've worked on. Add links to any live projects or repositories here.
-Connect with Me: Provide contact information and links to your social media or professional platforms, such as LinkedIn.
+* Professional Summary: A brief overview of your career and what you're passionate about.
+* Skills: List of key skills and technologies that you are proficient in.
+* Experience: A detailed look at your work experience and your contributions at previous jobs.
+* Education: Your academic background.
+* Projects: This can be optional if you want to showcase any specific projects you've worked on. Add links to any live projects or repositories here.
+* Connect with Me: Provide contact information and links to your social media or professional platforms, such as LinkedIn.
 
