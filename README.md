@@ -1,4 +1,4 @@
-# CAPSTONE_PROJECT_1-RESUME-
+# CAPSTONE_PROJECT_01-RESUME-
 ##Welcome to my GitHub! This repository contains my professional resume, which highlights my skills, experience, and education as a software engineer. Feel free to browse through my experience and projects !
 
 🚀 Professional Summary
